@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CryptoApp</string>
+    <string name="symbols">%s / %s</string>
+    <string name="last_update">Last update: %s</string>
+    <string name="update">Update:</string>
+    <string name="last_trade">Last trade:</string>
+    <string name="max_of_day">Max of day:</string>
+    <string name="min_of_day">Min of day:</string>
+    <string name="price">Price:</string>
+
+</resources>
